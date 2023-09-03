@@ -1,0 +1,14 @@
+c:\users\cisco\onedrive\documents\visual studio 2012\Projects\Gestao de Estudante\Gestao de Estudante\bin\Debug\Gestao de Estudante.exe.config
+c:\users\cisco\onedrive\documents\visual studio 2012\Projects\Gestao de Estudante\Gestao de Estudante\bin\Debug\Gestao de Estudante.exe
+c:\users\cisco\onedrive\documents\visual studio 2012\Projects\Gestao de Estudante\Gestao de Estudante\bin\Debug\Gestao de Estudante.pdb
+c:\users\cisco\onedrive\documents\visual studio 2012\Projects\Gestao de Estudante\Gestao de Estudante\obj\Debug\Gestao de Estudante.csprojResolveAssemblyReference.cache
+c:\users\cisco\onedrive\documents\visual studio 2012\Projects\Gestao de Estudante\Gestao de Estudante\obj\Debug\Gestao_de_Estudante.Properties.Resources.resources
+c:\users\cisco\onedrive\documents\visual studio 2012\Projects\Gestao de Estudante\Gestao de Estudante\obj\Debug\Gestao de Estudante.csproj.GenerateResource.Cache
+c:\users\cisco\onedrive\documents\visual studio 2012\Projects\Gestao de Estudante\Gestao de Estudante\obj\Debug\Gestao de Estudante.exe
+c:\users\cisco\onedrive\documents\visual studio 2012\Projects\Gestao de Estudante\Gestao de Estudante\obj\Debug\Gestao de Estudante.pdb
+C:\Users\cisco\onedrive\documents\visual studio 2012\Projects\Gestao de Estudante\Gestao de Estudante\obj\Debug\Gestao_de_Estudante.frmMenuPrincipal.resources
+C:\Users\cisco\onedrive\documents\visual studio 2012\Projects\Gestao de Estudante\Gestao de Estudante\obj\Debug\Gestao_de_Estudante.frmEstudante.resources
+C:\Users\cisco\onedrive\documents\visual studio 2012\Projects\Gestao de Estudante\Gestao de Estudante\obj\Debug\Gestao_de_Estudante.frmNotas.resources
+C:\Users\cisco\onedrive\documents\visual studio 2012\Projects\Gestao de Estudante\Gestao de Estudante\obj\Debug\Gestao_de_Estudante.frmGestaoAcademica.resources
+C:\Users\cisco\onedrive\documents\visual studio 2012\Projects\Gestao de Estudante\Gestao de Estudante\obj\Debug\Gestao_de_Estudante.frmPauta.resources
+C:\Users\cisco\onedrive\documents\visual studio 2012\Projects\Gestao de Estudante\Gestao de Estudante\obj\Debug\Gestao_de_Estudante.frmRelatorio.resources
